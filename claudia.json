@@ -1,0 +1,7 @@
+{
+  "lambda": {
+    "role": "application-secret-executor",
+    "name": "application-secret",
+    "region": "eu-west-2"
+  }
+}
